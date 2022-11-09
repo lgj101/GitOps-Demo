@@ -5,3 +5,4 @@ metadata:
   namespace: default
 data:
   config: my-config
+  name: demo
